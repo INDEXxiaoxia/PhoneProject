@@ -1,3 +1,6 @@
-# session2phoneproject
-session2phoneproject
-二手手机回收仿站
+# PhoneProject
+phoneproject<br>
+二手手机回收仿站<br>
+<ul>
+  <li>Spring MVC 练习项目</li>
+</ul>
